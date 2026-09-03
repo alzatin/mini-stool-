@@ -2,7 +2,12 @@
 
 # Mini_stool
 
-![](/project.svg)
+![](/project.png)
+
+## Inputs
+
+- **height** (number)
+
 
 
 
